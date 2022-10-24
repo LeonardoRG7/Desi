@@ -1,0 +1,20 @@
+{
+  "name": "desi",
+  "version": "1.0.0",
+  "description": "Desi landing page de ropa ",
+  "main": "index.js",
+  "scripts": {
+    "np": "sass --watch assets/sass/styles.scss:assets/css/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desi",
+    "landingPage",
+    "riascosDev"
+  ],
+  "author": "Leonaro Riascos Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
